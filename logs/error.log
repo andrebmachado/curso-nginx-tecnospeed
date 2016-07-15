@@ -1,0 +1,112 @@
+2016/07/13 21:20:16 [notice] 21508#14892: signal process started
+2016/07/13 21:30:46 [error] 14656#16868: *1 CreateFile() "C:\Dotenorio\nginx/html/favicon.ico" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2016/07/13 22:22:03 [emerg] 2940#19812: CreateFile() "C:\Dotenorio\nginx/conf/simples.conf" failed (2: FormatMessage() error:(15100)) in C:\Dotenorio\nginx/conf/nginx.conf:117
+2016/07/13 22:22:48 [notice] 10676#19188: signal process started
+2016/07/13 22:23:10 [error] 1400#1764: *8 CreateFile() "C:\Dotenorio\nginx/html\curso\simples/favicon.ico" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:9991", referrer: "http://localhost:9991/"
+2016/07/13 22:33:29 [warn] 16932#2384: conflicting server name "localhost" on 0.0.0.0:9991, ignored
+2016/07/13 22:33:29 [notice] 16932#2384: signal process started
+2016/07/13 22:33:29 [warn] 21852#3396: conflicting server name "localhost" on 0.0.0.0:9991, ignored
+2016/07/13 22:33:39 [notice] 5700#2804: signal process started
+2016/07/13 22:33:48 [error] 17244#284: *16 CreateFile() "C:\Dotenorio\nginx/html/stylesheet.css" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /stylesheet.css HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:33:48 [error] 17244#284: *17 CreateFile() "C:\Dotenorio\nginx/html/script.js" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /script.js HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:33:48 [error] 17244#284: *17 CreateFile() "C:\Dotenorio\nginx/html/curso/arquivosestaticos/favicon.ico" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:34:01 [error] 17244#284: *17 CreateFile() "C:\Dotenorio\nginx/html/stylesheet.css" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /stylesheet.css HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:35:08 [error] 17244#284: *19 CreateFile() "C:\Dotenorio\nginx/html/stylesheet.css" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /stylesheet.css HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:35:08 [error] 17244#284: *19 CreateFile() "C:\Dotenorio\nginx/html/script.js" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /script.js HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:35:22 [error] 17244#284: *19 CreateFile() "C:\Dotenorio\nginx/html/stylesheet.css" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /stylesheet.css HTTP/1.1", host: "localhost:9992"
+2016/07/13 22:36:32 [notice] 5596#16840: signal process started
+2016/07/13 22:40:21 [error] 7864#11792: *30 CreateFile() "C:\Dotenorio\nginx/html/curso/arquivosestaticos/DT.png" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /DT.png HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:40:25 [notice] 14528#8552: signal process started
+2016/07/13 22:40:26 [error] 7864#11792: *33 CreateFile() "C:\Dotenorio\nginx/html/curso/arquivosestaticos/DT.png" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /DT.png HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:40:50 [error] 9304#3856: *34 CreateFile() "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/assets/DT.png" failed (3: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /assets/DT.png HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:41:04 [error] 9304#3856: *34 CreateFile() "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/assets/DT.png" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /assets/DT.png HTTP/1.1", host: "localhost:9992"
+2016/07/13 22:41:20 [error] 9304#3856: *34 CreateFile() "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/assets/DT.png" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /assets/DT.png HTTP/1.1", host: "localhost:9992"
+2016/07/13 22:41:35 [error] 9304#3856: *34 CreateFile() "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/assets/DT.png" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /assets/DT.png HTTP/1.1", host: "localhost:9992"
+2016/07/13 22:41:49 [notice] 16272#13412: signal process started
+2016/07/13 22:41:50 [error] 8572#19472: *45 CreateFile() "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/assets/DT.png" failed (3: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /assets/DT.png HTTP/1.1", host: "localhost:9992"
+2016/07/13 22:42:30 [notice] 3880#16764: signal process started
+2016/07/13 22:42:33 [error] 14160#3192: *47 CreateFile() "C:\Dotenorio\nginx/html/assets/DT.png" failed (3: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /assets/DT.png HTTP/1.1", host: "localhost:9992"
+2016/07/13 22:42:37 [error] 14160#3192: *47 CreateFile() "C:\Dotenorio\nginx/html/DT.png" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /DT.png HTTP/1.1", host: "localhost:9992"
+2016/07/13 22:42:44 [notice] 14576#10612: signal process started
+2016/07/13 22:42:46 [error] 14160#3192: *48 CreateFile() "C:\Dotenorio\nginx/html/DT.png" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /DT.png HTTP/1.1", host: "localhost:9992"
+2016/07/13 22:43:09 [error] 21208#19984: *50 CreateFile() "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/assets/DT.png" failed (3: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /assets/DT.png HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:45:30 [notice] 9604#16868: signal process started
+2016/07/13 22:49:55 [error] 5804#9600: *60 CreateFile() "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/images/DT.png" failed (3: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /images/DT.png HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:50:39 [error] 5804#9600: *60 CreateFile() "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/images/nginx.png" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /images/nginx.png HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:50:43 [notice] 21108#6344: signal process started
+2016/07/13 22:50:44 [error] 5804#9600: *67 CreateFile() "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/images/nginx.png" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /images/nginx.png HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:50:47 [error] 2168#1428: *68 CreateFile() "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/images/nginx.png" failed (3: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /images/nginx.png HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:51:49 [error] 2168#1428: *68 CreateFile() "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/images/nginx.png" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /images/nginx.png HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:51:51 [notice] 3856#14748: signal process started
+2016/07/13 22:51:51 [error] 2168#1428: *68 CreateFile() "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/images/nginx.png" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /images/nginx.png HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:51:52 [error] 2168#1428: *74 CreateFile() "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/images/nginx.png" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /images/nginx.png HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:52:23 [error] 21712#19548: *77 CreateFile() "C:\Dotenorio\nginx/html/images/nginx.png" failed (3: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /images/nginx.png HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:52:25 [notice] 7888#8676: signal process started
+2016/07/13 22:52:26 [error] 21712#19548: *78 CreateFile() "C:\Dotenorio\nginx/html/images/nginx.png" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /images/nginx.png HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:52:27 [error] 18856#18500: *79 CreateFile() "C:\Dotenorio\nginx/html/images/nginx.png" failed (3: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /images/nginx.png HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:52:50 [notice] 10152#7452: signal process started
+2016/07/13 22:52:52 [error] 14160#8468: *81 CreateFile() "C:\Dotenorio\nginx/html/curso/arquivosestaticos/images/nginx.png" failed (3: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /images/nginx.png HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:55:23 [notice] 10984#3824: signal process started
+2016/07/13 22:55:27 [error] 7380#21832: *83 directory index of "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET //assets/ HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:55:40 [notice] 19236#13380: signal process started
+2016/07/13 22:55:41 [error] 7380#21832: *84 directory index of "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET //assets/ HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 22:55:46 [error] 524#14528: *85 directory index of "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET //assets/ HTTP/1.1", host: "localhost:9992"
+2016/07/13 22:56:01 [error] 524#14528: *85 directory index of "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET //assets/ HTTP/1.1", host: "localhost:9992"
+2016/07/13 22:56:03 [notice] 11516#8288: signal process started
+2016/07/13 22:56:03 [error] 524#14528: *85 directory index of "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET //assets/ HTTP/1.1", host: "localhost:9992"
+2016/07/13 22:56:04 [error] 19228#14656: *87 directory index of "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET //assets/ HTTP/1.1", host: "localhost:9992"
+2016/07/13 22:56:07 [error] 19228#14656: *87 directory index of "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET //assets/ HTTP/1.1", host: "localhost:9992"
+2016/07/13 22:56:28 [notice] 18916#12492: signal process started
+2016/07/13 22:56:35 [error] 17092#21884: *89 directory index of "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET //assets/ HTTP/1.1", host: "localhost:9992"
+2016/07/13 22:58:05 [notice] 13024#10420: signal process started
+2016/07/13 22:58:08 [error] 12732#13800: *91 directory index of "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET //assets/ HTTP/1.1", host: "localhost:9992"
+2016/07/13 22:59:13 [notice] 18876#7200: signal process started
+2016/07/13 22:59:16 [error] 12516#4968: *93 directory index of "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET //assets/ HTTP/1.1", host: "localhost:9992"
+2016/07/13 22:59:18 [error] 12516#4968: *93 directory index of "C:\Dotenorio\nginx/html/curso/arquivosestaticos/assets/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET //assets/ HTTP/1.1", host: "localhost:9992"
+2016/07/13 23:00:15 [notice] 20912#19460: signal process started
+2016/07/13 23:00:37 [notice] 16292#16868: signal process started
+2016/07/13 23:03:10 [error] 15504#5748: *105 CreateFile() "C:\Dotenorio\nginx/html/curso/arquivosestaticos/try/nginx.png" failed (3: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /try/nginx.png HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 23:05:29 [notice] 11108#14372: signal process started
+2016/07/13 23:06:44 [notice] 19732#7140: signal process started
+2016/07/13 23:09:08 [notice] 12704#9068: signal process started
+2016/07/13 23:10:19 [notice] 22316#2384: signal process started
+2016/07/13 23:10:38 [notice] 1112#3036: signal process started
+2016/07/13 23:11:36 [notice] 18732#15988: signal process started
+2016/07/13 23:14:33 [notice] 8128#14596: signal process started
+2016/07/13 23:14:35 [error] 15724#11236: *146 CreateFile() "C:\Dotenorio\nginx/html/curso/arquivosestaticos//try/nginx.png" failed (3: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /try/nginx.png HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 23:15:57 [notice] 22316#20208: signal process started
+2016/07/13 23:15:59 [error] 14660#14980: *152 CreateFile() "C:\Dotenorio\nginx/html/curso/arquivosestaticos/try/nginx.png" failed (3: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /try/nginx.png HTTP/1.1", host: "localhost:9992", referrer: "http://localhost:9992/"
+2016/07/13 23:16:40 [notice] 22076#22196: signal process started
+2016/07/13 23:23:32 [notice] 5588#15108: signal process started
+2016/07/13 23:23:38 [error] 4544#2248: *160 CreateFile() "C:\Dotenorio\nginx/html/curso/cache/stylesheet.css" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /stylesheet.css HTTP/1.1", host: "localhost:9993", referrer: "http://localhost:9993/"
+2016/07/13 23:23:38 [error] 4544#2248: *160 CreateFile() "C:\Dotenorio\nginx/html/curso/cache/script.js" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /script.js HTTP/1.1", host: "localhost:9993", referrer: "http://localhost:9993/"
+2016/07/13 23:23:38 [error] 4544#2248: *160 CreateFile() "C:\Dotenorio\nginx/html/curso/cache/favicon.ico" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:9993", referrer: "http://localhost:9993/"
+2016/07/13 23:25:17 [notice] 10316#12872: signal process started
+2016/07/13 23:32:21 [notice] 9624#6984: signal process started
+2016/07/13 23:32:21 [emerg] 9396#15900: CreateDirectory() "C:/Dotenorio/nginx/conf/curso/cache/cache" failed (3: FormatMessage() error:(15100))
+2016/07/13 23:33:23 [notice] 9364#15744: signal process started
+2016/07/13 23:33:59 [error] 18956#15180: *180 CreateFile() "C:\Dotenorio\nginx/html/curso/cache/favicon.ico" failed (2: FormatMessage() error:(15100)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:9993", referrer: "http://localhost:9993/"
+2016/07/13 23:33:59 [error] 18956#15180: *178 CreateFile() "C:\Dotenorio\nginx/html/curso/cache/favicon.ico" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:9993", referrer: "http://localhost:9993/"
+2016/07/13 23:34:00 [error] 18956#15180: *178 CreateFile() "C:\Dotenorio\nginx/html/curso/cache/favicon.ico" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:9993", referrer: "http://localhost:9993/"
+2016/07/13 23:34:00 [error] 18956#15180: *178 CreateFile() "C:\Dotenorio\nginx/html/curso/cache/favicon.ico" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:9993", referrer: "http://localhost:9993/"
+2016/07/13 23:39:45 [error] 18956#15180: *188 CreateFile() "C:\Dotenorio\nginx/html/curso/cache/favicon.ico" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:9993", referrer: "http://localhost:9993/"
+2016/07/13 23:40:26 [emerg] 13596#18824: invalid "levels" "levels=0:1" in C:\Dotenorio\nginx/conf/curso/cache.conf:1
+2016/07/13 23:42:46 [notice] 22352#19188: signal process started
+2016/07/15 09:47:59 [emerg] 13440#18184: CreateFile() "C:\Dotenorio\nginx/conf/default/server.conf" failed (3: FormatMessage() error:(15100)) in C:\Dotenorio\nginx/conf/curso/cache.conf:11
+2016/07/15 09:48:24 [notice] 12800#5764: signal process started
+2016/07/15 09:48:46 [error] 8148#1360: *1 upstream timed out (10060: FormatMessage() error:(15100)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:9983/", host: "localhost:9993"
+2016/07/15 09:48:56 [error] 8148#1360: *1 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:9983/", host: "localhost:9993"
+2016/07/15 09:49:07 [error] 8148#1360: *1 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:9983/favicon.ico", host: "localhost:9993", referrer: "http://localhost:9993/"
+2016/07/15 09:49:17 [error] 8148#1360: *1 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://[::1]:9983/favicon.ico", host: "localhost:9993", referrer: "http://localhost:9993/"
+2016/07/15 09:49:47 [error] 8148#1360: *8 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:9983/", host: "localhost:9993"
+2016/07/15 09:50:19 [error] 8148#1360: *15 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:9983/", host: "localhost:9993"
+2016/07/15 13:00:33 [notice] 15804#13556: signal process started
+2016/07/15 13:02:53 [emerg] 17484#4052: the same path name "C:/Dotenorio/nginx/html/curso/cache/cache" used in C:\Dotenorio\nginx/conf/curso/cache.conf:1 and in C:\Dotenorio\nginx/conf/curso/loadbalancer.conf:1
+2016/07/15 13:03:18 [emerg] 14564#9824: duplicate zone "curso_proxy_cache" in C:\Dotenorio\nginx/conf/curso/loadbalancer.conf:1
+2016/07/15 13:03:47 [notice] 8832#17596: signal process started
+2016/07/15 13:04:02 [error] 16252#7268: *31 upstream timed out (10060: FormatMessage() error:(15100)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://[::1]:9974/favicon.ico", host: "localhost:9994", referrer: "http://localhost:9994/"
+2016/07/15 13:05:29 [notice] 2148#2156: signal process started
+2016/07/15 13:05:42 [error] 11252#9356: *55 upstream timed out (10060: FormatMessage() error:(15100)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:9974/", host: "localhost:9994"
+2016/07/15 13:05:53 [error] 11252#9356: *57 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:9984/", host: "localhost:9994"
+2016/07/15 13:13:06 [error] 11252#9356: *130 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:9974/", host: "localhost:9994"
+2016/07/15 13:13:16 [error] 11252#9356: *130 upstream timed out (10060: FormatMessage() error:(15105)) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:9984/", host: "localhost:9994"
